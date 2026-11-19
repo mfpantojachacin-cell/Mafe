@@ -1,0 +1,21 @@
+button {
+    background #f163bb
+    color: white;
+    padding: 12px 24px;
+    border-radius: 99px;
+    border: nome;
+
+button : hover 
+background #ec4899
+cursor: pointer;
+  
+
+}
+.music-card { 
+background: #1e293h
+padding: 20px 
+border - radius: 16px
+box - shadow: 0 10px 20px #0003;
+text - align: center;
+}
+ 
